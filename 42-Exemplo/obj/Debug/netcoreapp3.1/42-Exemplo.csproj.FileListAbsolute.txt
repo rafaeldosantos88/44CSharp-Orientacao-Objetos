@@ -1,0 +1,11 @@
+C:\temp\C#\Course\42-Exemplo\bin\Debug\netcoreapp3.1\42-Exemplo.exe
+C:\temp\C#\Course\42-Exemplo\bin\Debug\netcoreapp3.1\42-Exemplo.deps.json
+C:\temp\C#\Course\42-Exemplo\bin\Debug\netcoreapp3.1\42-Exemplo.runtimeconfig.json
+C:\temp\C#\Course\42-Exemplo\bin\Debug\netcoreapp3.1\42-Exemplo.runtimeconfig.dev.json
+C:\temp\C#\Course\42-Exemplo\bin\Debug\netcoreapp3.1\42-Exemplo.dll
+C:\temp\C#\Course\42-Exemplo\bin\Debug\netcoreapp3.1\42-Exemplo.pdb
+C:\temp\C#\Course\42-Exemplo\obj\Debug\netcoreapp3.1\42-Exemplo.csprojAssemblyReference.cache
+C:\temp\C#\Course\42-Exemplo\obj\Debug\netcoreapp3.1\42-Exemplo.AssemblyInfoInputs.cache
+C:\temp\C#\Course\42-Exemplo\obj\Debug\netcoreapp3.1\42-Exemplo.AssemblyInfo.cs
+C:\temp\C#\Course\42-Exemplo\obj\Debug\netcoreapp3.1\42-Exemplo.dll
+C:\temp\C#\Course\42-Exemplo\obj\Debug\netcoreapp3.1\42-Exemplo.pdb
